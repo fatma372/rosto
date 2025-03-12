@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+main{
+  background-image: url(../public/bg-car.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+
+}
+
+::selection{
+  background-color: red;
+}
+.hero{
+  background-color: rgba(0, 0, 0, 0.772);
+}
