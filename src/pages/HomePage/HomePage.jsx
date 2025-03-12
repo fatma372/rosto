@@ -7,7 +7,7 @@ export default function HomePage() {
         <div className="hero p-4 absolute top-[-1] h-[100vh] md:h-[90vh] w-full text-white flex lg:flex-nowrap flex-wrap lg:flex-row  justify-center gap-6 py-30">
           <div className="left md:pl-20 md:w-[70%] flex flex-col gap-7">
             <h1 className='text-red-600 font-bold text-7xl'>
-              ROTSO
+              ROTORS
             </h1>
             <p className='text-2xl'>
               Best & Luxury Cars Rental HTML5 Template.
