@@ -41,7 +41,7 @@ const FeedbackForm = () => {
       <form onSubmit={handleSubmit} className="max-w-6xl mx-auto bg-white p-6 rounded shadow-xl">  
         {errorMessage && <p className="text-red-500 mb-4">{errorMessage}</p>}  
         <div className="flex flex-col md:flex-row gap-6">  
-          {/* Left Side - Name, Email, and Phone */}  
+          {/* Name, Email, and Phone */}  
           <div className="flex-1">  
             <div className="mb-4">  
               <label className="block text-gray-700 mb-2" htmlFor="name">Name</label>  

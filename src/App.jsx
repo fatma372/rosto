@@ -8,12 +8,12 @@ import FeedbackForm from './components/FeedbackForm'
 export default function App() {
   return (
     <>
-      <Header></Header>
-      <HomePage></HomePage>
-      <About></About>
-      <Gallery></Gallery>
-      <FeedbackForm></FeedbackForm>
-      <Footer></Footer>
+      <Header/>
+      <HomePage/>
+      <About/>
+      <Gallery/>
+      <FeedbackForm/>
+      <Footer/>
 
     </>
   )

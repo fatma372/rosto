@@ -44,7 +44,7 @@ export default function HomePage() {
 
           </div>
           <div className="right mt-17 ">
-            <img src="../../../public/car.png" className="object-contain h-[250px] lg:h-full" alt="car" />
+            <img src="/car.png" className="object-contain h-[250px] lg:h-full" alt="car" />
           </div>
         </div>
       </main>
